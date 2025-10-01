@@ -1,5 +1,6 @@
 A Simple Application manager that uses wget to retrive files off a network share
 
+You must modify the .sh files to insert the wget network address
 
 Prerequisites :
 
